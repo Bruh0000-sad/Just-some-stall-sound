@@ -1,5 +1,5 @@
 <script>
-  // Use a relative URL
+  // https://bruh0000-sad.github.io/Just-some-stall-sound/
   var audio = new Audio('"C:\Users\mzach\OneDrive\Desktop\e (1).wav"');
   function playAudio() {
     audio.play();
